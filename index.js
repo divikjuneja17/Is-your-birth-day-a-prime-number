@@ -51,4 +51,3 @@ function validateDob(dob){ //passing dob String to this function to validate dat
 }
 
 validateDob(dob);
-validateDob(dob);
